@@ -1,0 +1,19 @@
+{
+  "name": "vistar-chai-extensions",
+  "version": "0.0.1",
+  "description": "chai extensions",
+  "main": "index.coffee",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://git@github.com:natlownes/vistar-chai-extensions.git"
+  },
+  "keywords": [
+    "chai",
+    "extensions"
+  ],
+  "author": "",
+  "license": "BSD"
+}
